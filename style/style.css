@@ -1,0 +1,38 @@
+/* .table{
+    background-color: green;
+    color :white;
+    border-radius: 30px;
+} */
+td, th {
+    vertical-align:  middle !important;
+    text-align: center !important
+    
+}
+
+.input-group {
+    margin: 20px 0px;
+
+}
+
+svg{
+    height: 150px;
+}
+   
+td:first-of-type, td:first-of-type >{
+    height: 200px;
+    width:250px;
+}
+
+table table-hover{
+    /* background-color: green; */
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    color: green;
+}
+h3{
+    text-align: center;
+    
+}
